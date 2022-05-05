@@ -6,4 +6,6 @@
 * Get Employee
 * Get All Employees
 ___
- I have also provided some extra feature 
+ I have also provided some extra feature like 
+ * Some validations
+ * and Global Exception Handling
