@@ -9,4 +9,4 @@ ___
  I have also provided some extra feature like 
  * Some validations
  * and Global Exception Handling
-  [jai](google.com)
+  [jai](https://google.com)
